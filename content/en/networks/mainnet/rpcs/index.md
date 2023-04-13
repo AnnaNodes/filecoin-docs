@@ -39,3 +39,8 @@ Please note that publicly available hosted endpoints **only guarantee 2000 of th
 - HTTPS: `https://filecoin-mainnet.chainstacklabs.com/rpc/v1`
 - WebSocket: `wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1`
 - [Chainstack documentation](https://docs.chainstack.com)
+
+## [NOWNodes](https://www.chainstack.com](https://nownodes.io/)
+
+- HTTPS: `https://fil.nownodes.io`
+- [NOWNodes documentation](https://documenter.getpostman.com/view/13630829/TVmFkLwy#7f656a5d-bba9-43f8-affe-ce0ca8c3cbbd))
